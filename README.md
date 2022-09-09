@@ -14,28 +14,31 @@ Despite having used many different technologies for my projects, my most recent 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 For me, the MERN stack can deliver what I need for my projects in a simple but effective way:
 
-- React allows to structure the front-end in a modular way with components and hooks, which sometimes can seem a bit confusing, but shows its usefulness when there has to be changed made to the code.
+- React allows to structure the front-end in a modular way with components and hooks, which sometimes can seem a bit confusing, but shows its usefulness when there has to be changes made to the code.
 
 - Node works pretty well for building different types of apps in an easy way, which, combined with Express, makes it super-easy to create the back-end for our web apps.
 
-- With MongoDB we are able to create and manage a functional database with almost 0 knowledge given its simplicity. This doesn't only makes MongoDB an easy to use database, but also a versatile one, so that almost every small to medium project can make use of it.
+- With MongoDB we are able to create and manage a functional database with almost 0 knowledge given its simplicity. This doesn't only makes MongoDB an easy to use database, but also a versatile one, so that almost every small to medium project can use it as ther DB without planning their necessities.
 
 Along with the stack, Bootstrap is also used to deliver responsive and modern designs that give freshness to our apps.
 
-At last but not least, with Git we are able to control and track the different changes made to our projects, whether it be alone or with teammates
+At last but not least, to manage changes and deployment of out apps we use Git and Docker:
+-With Git we are able to control and track the different changes made to our projects, whether it be alone or with teammates. 
+
+-Docker simplifies the deployment and maintenance of our apps, which might not be necessary for our little projects, but is always fun to work with them 😁
 
 ## 👓 Things I know how to use
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-Apart from the main technologies mentioned in the last part, there are some others that I also use from time to time, so working with them isn't a problem a t all
+Apart from the main technologies mentioned in the last part, there are some others that I also use from time to time, so working with them isn't a problem at all
 
 ## 📃 Some other things I've used
 
